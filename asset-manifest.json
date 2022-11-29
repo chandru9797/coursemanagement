@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/finder-app/static/css/main.e1059929.css",
+    "main.js": "/finder-app/static/js/main.bf565dd8.js",
+    "index.html": "/finder-app/index.html",
+    "main.e1059929.css.map": "/finder-app/static/css/main.e1059929.css.map",
+    "main.bf565dd8.js.map": "/finder-app/static/js/main.bf565dd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1059929.css",
+    "static/js/main.bf565dd8.js"
+  ]
+}
